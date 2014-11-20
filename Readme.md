@@ -8,9 +8,9 @@ CSV codebook:
 Some of the variables are self explanatory, but in order to clarify some of the ones with less self-evident names:
 
 otrate -- on target rate (shots on target / shots) 	
-on_target -- number of shots on target
-crate -- conversion rate
-in_area -- number of shots from inside the penalty area
-out_area -- number of shots from outside the penalty area
-in_area_prop -- the proportion of shots take from within the penalty area 
-\*_next -- the suffix indicating a stat from 2013
+on_target -- number of shots on target  
+crate -- conversion rate  
+in_area -- number of shots from inside the penalty area  
+out_area -- number of shots from outside the penalty area  
+in_area_prop -- the proportion of shots take from within the penalty area   
+\*_next -- the suffix indicating a stat from 2013  
